@@ -11,3 +11,5 @@ main()
 	printf("Fourth line");
 >>>>>>> testing
 )
+
+##\ \this is the line causing an issue on the master branch
