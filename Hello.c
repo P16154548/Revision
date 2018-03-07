@@ -12,4 +12,8 @@ main()
 >>>>>>> testing
 )
 
+<<<<<<< HEAD
 ##\ \this is the line causing an issue on the master branch
+=======
+## this line is causing an issue in the testing branch
+>>>>>>> testing
